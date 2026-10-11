@@ -1,0 +1,11 @@
+
+*
+
+!*/
+
+!.gitignore
+!README.md
+!*.java
+
+.idea/
+out/
